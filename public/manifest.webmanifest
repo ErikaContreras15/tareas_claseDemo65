@@ -1,8 +1,13 @@
 {
-  "name": "demo65",
-  "short_name": "demo65",
-  "theme_color": "#1976d2",
-  "background_color": "#fafafa",
+  "name": "PracticaPWA",
+  "short_name": "Holaa",
+  
+  
+  "theme_color": "#123456",
+  "background_color": "#abcdef",
+
+
+
   "display": "standalone",
   "scope": "./",
   "start_url": "./",
